@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sfx-project-5-client-side-solution",
+    "id": "e3d401ce-0043-448e-a639-a76a47acda40",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sfx-project-5.sppkg"
+  }
+}
